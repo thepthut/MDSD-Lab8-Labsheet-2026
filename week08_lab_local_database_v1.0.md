@@ -1,4 +1,4 @@
-<img width="1252" height="737" alt="image" src="https://github.com/user-attachments/assets/c196d3ac-5ade-4fd2-b8f4-647f58ef6bf2" /># ใบงานปฏิบัติสัปดาห์ที่ 8: Local Database & Persistence ด้วย Drift
+# ใบงานปฏิบัติสัปดาห์ที่ 8: Local Database & Persistence ด้วย Drift
 
 **วิชา** การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่ | **เครื่องมือ** Flutter, Drift, sqlite3_flutter_libs, build_runner, Google AI Studio
 
